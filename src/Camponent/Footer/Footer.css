@@ -1,0 +1,31 @@
+.footr{
+    background-color: #16181e;
+}
+/*<!--start footer-->*/
+.footer_box {
+    font-size: 140%;
+    margin: 50px 0px 25px 0px;
+    padding: 25px;
+    border-radius: 15px;
+    line-height: 24px;
+}
+.footer_box1 {
+    text-align: justify;
+    color: white;
+}
+.footer_box2 {
+    text-align: justify;
+    color: white;
+}
+
+.footr a:hover {
+    color: #805af5 !important;
+}
+.footer_box3_1 {
+    display: flex;
+    color: white;
+}
+.footer_box3_2 {
+    padding: 30px;
+}
+/*<!--END footer-->*/
